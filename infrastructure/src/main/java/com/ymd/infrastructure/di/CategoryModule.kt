@@ -22,11 +22,3 @@ class CategoryModule {
         CategoryService(categoryRepository)
 
 }
-
-/*
-
-jalvarez@tribalworldwide.gt
-cpena@tribalworldwide.gt
-erick.espejel@tribalworldwide.gt
-
- */
